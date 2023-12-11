@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Osman Gani
 #### I am Frontend Web Developer
-![I am Frontend Web Developer](https://i.ibb.co/xjMLszD/gallery.jpg)
+
 <img src="https://i.ibb.co/xjMLszD/gallery.jpg" alt="" style="width: 100%">
 
 With a passion for crafting visually stunning and highly functional user interfaces, I combines creativity with technical expertise to bring websites and applications to life. My proficiency in cutting-edge technologies makes me a versatile and sought-after professional in the world of frontend development.
