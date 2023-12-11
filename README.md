@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+<div style="display: flex justify-content: center align-items: center flex-direction: column;">
     # Hi there 👋, My name is Osman Gani
 ### I am Frontend Web Developer
 
