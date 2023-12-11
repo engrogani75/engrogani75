@@ -1,5 +1,5 @@
-<div style="display: flex justify-content: center align-items: center flex-direction: column;">
-    # Hi there 👋, My name is Osman Gani
+
+# Hi there 👋, My name is Osman Gani
 ### I am Frontend Web Developer
 
 <img src="https://i.ibb.co/xjMLszD/gallery.jpg" alt="" style="width: 100%">
@@ -30,4 +30,7 @@ Skills:  REACT / JS / HTML / CSS/ Tailwind / Bootstrap / Firebase
 
 
 ![GitHub metrics](https://metrics.lecoq.io/engrogani75)  
-</div>
+
+
+
+
