@@ -5,7 +5,7 @@
 
 <img src="https://i.ibb.co/xjMLszD/gallery.jpg" alt="" style="width: 100%">
 
-<p align="center" font="bold">With a passion for crafting visually stunning and highly functional user interfaces, I combines creativity with technical expertise to bring websites and applications to life. My proficiency in cutting-edge technologies makes me a versatile and sought-after professional in the world of frontend development.
+<p align="center">With a passion for crafting visually stunning and highly functional user interfaces, I combines creativity with technical expertise to bring websites and applications to life. My proficiency in cutting-edge technologies makes me a versatile and sought-after professional in the world of frontend development.
 </p>
 - 📫 How to reach me **engrosman48@gamil.com**
 
@@ -32,9 +32,6 @@ Skills:  REACT / JS / HTML / CSS/ Tailwind / Bootstrap / Firebase
 
 
 ![GitHub metrics](https://metrics.lecoq.io/engrogani75)  
-
-
-
 
 
 </div>
