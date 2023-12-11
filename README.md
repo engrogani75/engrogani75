@@ -4,7 +4,8 @@
 
 With a passion for crafting visually stunning and highly functional user interfaces, I combines creativity with technical expertise to bring websites and applications to life. My proficiency in cutting-edge technologies makes me a versatile and sought-after professional in the world of frontend development.
 
-Skills:  REACT / JS / HTML / CSS/Tailwind/Bootstrap/Firebase
+Skills:  REACT / JS / HTML / CSS/ Tailwind / Bootstrap / Firebase
+https://stock.adobe.com/images/html5-css3-js-icon-set-web-development-logo-icon-set-of-html-css-and-javascript-programming-symbol/321243084
 
 - 🔭 I’m currently working on this page. 
 
