@@ -29,5 +29,5 @@ Skills:  REACT / JS / HTML / CSS/ Tailwind / Bootstrap / Firebase
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/engrogani75/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/engrogani75)  
+
 
