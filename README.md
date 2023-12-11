@@ -1,4 +1,5 @@
-
+<div align="center">
+  
 # Hi there 👋, My name is Osman Gani
 ### I am Frontend Web Developer
 
@@ -34,3 +35,5 @@ Skills:  REACT / JS / HTML / CSS/ Tailwind / Bootstrap / Firebase
 
 
 
+
+</div>
