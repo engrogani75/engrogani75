@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Osman Gani
-#### I am Frontend Web Developer
+# Hi there 👋, my name is Osman Gani
+### I am Frontend Web Developer
 
 <img src="https://i.ibb.co/xjMLszD/gallery.jpg" alt="" style="width: 100%">
 
